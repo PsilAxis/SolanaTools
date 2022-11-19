@@ -1,0 +1,221 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css");
+
+.hide {
+    display:none;
+}
+
+.OpenClose {
+    background-color: darkblue;
+}
+
+.OpenButtons {
+    border: 2px solid black;
+    display: flex; /* or inline-flex */
+    justify-content: center;
+}
+
+.TxButton {
+    background-color: burlywood;
+    margin-bottom: 7px;
+}
+
+.noLog {
+    text-align: center;
+    margin: 25px;
+}
+
+.Connect {
+    margin: auto;
+}
+
+.Connect button {
+    background-color: #006cd4;
+    font-size: x-large;
+}
+
+.Disconnect button {
+    background-color: #006cd4;
+    font-size: x-large;
+    margin: 10px;
+}
+
+.App-Body {
+    width: 90%;
+    text-align:center;
+    background-color: blue;
+    margin: auto;
+}
+
+
+
+
+.Greeting {
+    margin: auto;
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    word-wrap: anywhere;
+}
+
+.Greeting p {
+    margin: 0;
+}
+
+.Greeting button{
+    width: fit-content;
+    color: white;
+    margin:10px;
+    width: auto;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+
+
+.Send2Random {
+    margin: 10px;
+    display: inline-block;
+    word-wrap: anywhere;
+    border-radius: 5px;
+    width: auto;
+    max-width: 270px;
+
+}
+
+.S2Random {
+    background-color: brown;
+    display: inline-block;
+    word-wrap: anywhere;
+    border-radius: 5px;
+    width: auto;
+    max-width: 270px;
+}
+
+.Send2Random button {
+    font-size: x-large;
+    margin: 0px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bolder;
+}
+.Send2Random button:hover {
+    background-color: #000f;
+}
+
+
+
+
+
+.Send2Address {
+    margin: 10px;
+    display: inline-block;
+    word-wrap: anywhere;
+    border-radius: 5px;
+    width: auto;
+    max-width: 270px;
+}
+.S2Address {
+    background-color: brown;
+    display: inline-block;
+    border-radius: 5px;
+    width: auto;
+    max-width: 270px;
+}
+
+.Send2Address button {
+    font-size: x-large;
+    border-radius: 5px;
+    color: white;
+    font-weight: bolder;
+}
+
+.Send2Address button:hover {
+    background-color: #000f;
+}
+
+.Send2Address input {
+
+    position: center
+}
+.Send2Address p{
+    font-size: larger;
+    font-weight:bolder;
+    margin: 5px;
+    word-wrap:anywhere;
+}
+
+
+
+.AirdropCss {
+    margin: 10px;
+    display: inline-block;
+    word-wrap: anywhere;
+    border-radius: 5px;
+    width: auto;
+    max-width: 270px;
+}
+
+.Airdrop {
+    background-color: brown;
+    display: inline-block;
+    word-wrap: anywhere;
+    border-radius: 5px;
+    width: auto;
+    max-width: 270px;
+}
+
+.AirdropCss h6{
+    margin: 5px;
+}
+.AirdropCss button {
+    color: white;
+    width: auto;
+    font-size: x-large;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+
+.AirdropCss button:hover {
+    background-color: #000f;
+}
+
+.Donations {
+    margin: 10px;
+    display: inline-block;
+    word-wrap: anywhere;
+    border-radius: 5px;
+    width: auto;
+    max-width: 270px;
+}
+
+.Donate {
+    background-color: brown;
+    display: inline-block;
+    word-wrap: anywhere;
+    border-radius: 5px;
+    width: auto;
+    max-width: 270px;
+}
+
+.Donations button {
+    color: white;
+    width: auto;
+    font-size: x-large;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+
+.Donations button:hover {
+    background-color: #000f;
+}
+
+.Bottom-Text {
+    position: fixed;
+    left: 0;
+    bottom: -16px;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    word-wrap: anywhere;
+}
