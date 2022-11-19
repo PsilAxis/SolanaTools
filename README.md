@@ -1,4 +1,8 @@
+![alt text](https://psilaxis.com/SolAxis/Screenshot.png)
 # Getting Started 
+
+Test out the app - Devnet ONLY
+https://psilaxis.com/SolAxis/
 
 ### `npm install`
 
